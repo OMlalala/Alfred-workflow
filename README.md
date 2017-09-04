@@ -8,7 +8,7 @@ Many thanks to [@zetavg](https://github.com/zetavg/alfred-google-translate-workf
 
 ## Demand
 
-I'm searching for the great investor's information recently, and put information in Zotero groups library.
+I'm searching for the great investor's information recently, and put information in Zotero groups library: [Zotero | Groups > OMlalala > Library](https://www.zotero.org/groups/1654579/omlalala/items)
 
 ![](http://omjtq6wcu.bkt.clouddn.com/1.jpg)
 
@@ -20,15 +20,13 @@ So, I have to repeatedly search from web pages like Google, wiki, amazon, valuew
 
 With curiosity and excitement, I set two workflows.
 - Search investor in multiple webpages
-  - installation: Download the workflow from GitHub 链接
   - function: search investor's information in English version and Traditional Chinese version
-  - usage: us + investor's name
-  - example:
+  - usage: en + investor's name
+  - example
 ![](http://omjtq6wcu.bkt.clouddn.com/2.jpg)
 ![](http://omjtq6wcu.bkt.clouddn.com/3.jpg)
 ![](http://omjtq6wcu.bkt.clouddn.com/4.jpg)
 - Search books in Amazon China
-  - installation: Download the workflow from GitHub 链接
   - function: search investor's books in Simplified Chinese version
   - usage: cn + investor's name
   - example:
