@@ -24,15 +24,17 @@ With curiosity and excitement, I set two workflows.
   - function: search investor's information in English version and Traditional Chinese version
   - usage: us + investor's name
   - example:
-  ![](http://omjtq6wcu.bkt.clouddn.com/2.jpg)
-  ![](http://omjtq6wcu.bkt.clouddn.com/3.jpg)
+![](http://omjtq6wcu.bkt.clouddn.com/2.jpg)
+![](http://omjtq6wcu.bkt.clouddn.com/3.jpg)
+![](http://omjtq6wcu.bkt.clouddn.com/4.jpg)
 - Search books in Amazon China
   - installation: Download the workflow from GitHub 链接
   - function: search investor's books in Simplified Chinese version
   - usage: cn + investor's name
   - example:
-  ![](http://omjtq6wcu.bkt.clouddn.com/4.jpg)
-  ![](http://omjtq6wcu.bkt.clouddn.com/5.jpg)
+![](http://omjtq6wcu.bkt.clouddn.com/5.jpg)
+![](http://omjtq6wcu.bkt.clouddn.com/6.jpg)
+![](http://omjtq6wcu.bkt.clouddn.com/7.jpg)
 
 ## Thanks
 [zetavg (Pokai Chang)](https://github.com/zetavg) for giving me an excellent example to work off of in his [alfred-google-translate-workflow.](https://github.com/zetavg/alfred-google-translate-workflow)
